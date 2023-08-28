@@ -32,6 +32,5 @@ Your Pubblic IP will change and you will be able to make https request under a d
 To can hide your footprint
 
 
-![image](https://github.com/Antrx1/KaliVPNBook/assets/143051797/c4c60500-a428-4b8a-81df-81722c432cf8)
 
 
